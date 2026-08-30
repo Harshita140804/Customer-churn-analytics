@@ -1,8 +1,8 @@
-# 📊 Customer Churn Analytics Dashboard
+#  Customer Churn Analytics Dashboard
 
 An end-to-end customer churn analytics project built using Excel, MySQL, Python (Pandas), and Power BI to identify customer churn patterns, analyze key churn drivers, and generate actionable business recommendations.
 
-## 🎯 Business Objective
+## Business Objective
 
 The objective of this project is to understand customer churn behavior and identify customer segments and service characteristics associated with higher churn rates.
 
@@ -19,13 +19,13 @@ The analysis focuses on:
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![Customer Churn Dashboard](images/customer-churn-dashboard.png)
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool     | Purpose                                   |
 | -------- | ----------------------------------------- |
@@ -38,7 +38,7 @@ The analysis focuses on:
 
 ---
 
-## 🔄 End-to-End Data Pipeline
+##  End-to-End Data Pipeline
 
 ```text
 Raw Dataset
@@ -58,7 +58,7 @@ Interactive Churn Dashboard
 
 ---
 
-## 📈 Key KPIs
+##  Key KPIs
 
 | KPI                     |   Value |
 | ----------------------- | ------: |
@@ -71,7 +71,7 @@ Interactive Churn Dashboard
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Contract Type
 
@@ -95,7 +95,7 @@ The churn-reason analysis highlights competitive offers, product dissatisfaction
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 Based on the analysis:
 
@@ -121,7 +121,7 @@ Based on the analysis:
 
 ---
 
-## 🧹 Python Data Cleaning
+##  Python Data Cleaning
 
 Python/Pandas was used to:
 
@@ -144,7 +144,7 @@ Python/Pandas was used to:
 
 ---
 
-## 🗄️ SQL Analysis
+##  SQL Analysis
 
 MySQL was used to calculate and validate:
 
@@ -159,7 +159,7 @@ MySQL was used to calculate and validate:
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The dashboard provides interactive analysis of:
 
@@ -173,7 +173,7 @@ The dashboard provides interactive analysis of:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 customer-churn-analytics/
@@ -195,13 +195,13 @@ customer-churn-analytics/
 
 ---
 
-## ⚠️ Dataset
+##  Dataset
 
 This project uses the publicly available Telco Customer Churn dataset for educational and portfolio purposes.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Harshita Arora**
 
